@@ -1,0 +1,16 @@
+This Low Fodmap Tracker app for second reintroduction phase.
+I enjoyed building this one out, and adding a backend to this.
+It's a fully fuctionaly app with both front end & backend.
+
+It can be put to use right away, basically the user, goes through all the sections
+of the fodmap diet, including which categeroy they wish to use, next they add what food they eat, portions, etc, etc.
+
+They than include there symptioms and how they felt, and than lastly add a note, than the apps backend classify if, is a trigger or not.
+This is really good alternative to physical tracking your information. It retains the information after logging into the app.
+
+As of now, I am completing if I should add the notes section to be retained in the end product, but keeping it simple to the point,
+should allow the user to understand there trigger easier and take action, which is mainly what this app is about.
+
+https://preview--fodmap-friend-journey.lovable.app/auth
+
+
